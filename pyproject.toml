@@ -26,7 +26,7 @@ dependencies = [
     "jaxtyping",
     "loguru",
     "robot_descriptions",
-    "jaxls @ git+https://github.com/brentyi/jaxls.git",
+    #"jaxls @ git+https://github.com/brentyi/jaxls.git",
     "yourdfpy",
     "trimesh",
     "viser",
